@@ -1,0 +1,9 @@
+# Build output and local IDE state
+bin/
+obj/
+publish/
+.vs/
+*.user
+*.suo
+# Local runtime data
+*.log

@@ -1,0 +1,17 @@
+global using System;
+global using System.Collections.Generic;
+global using System.IO;
+global using System.Threading.Tasks;
+global using System.Windows;
+global using System.Windows.Controls;
+global using System.Windows.Input;
+global using System.Windows.Media;
+global using System.Windows.Media.Imaging;
+global using System.Windows.Shapes;
+global using System.Windows.Threading;
+global using Color = System.Windows.Media.Color;
+global using Brushes = System.Windows.Media.Brushes;
+global using Cursors = System.Windows.Input.Cursors;
+global using Rectangle = System.Windows.Shapes.Rectangle;
+global using Button = System.Windows.Controls.Button;
+global using Clipboard = System.Windows.Clipboard;
